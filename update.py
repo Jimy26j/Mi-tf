@@ -1,7 +1,7 @@
 import json
 import urllib.request
 
-URL = "https://raw.githubusercontent.com/Jimy26j/Para-prem/refs/heads/main/dato.json"
+URL = "https://puntoplaytv.one/puntoplaytv/superadmin/paneltv/tv3.json"
 ARCHIVO = "dato.json"
 
 with urllib.request.urlopen(URL) as r:
