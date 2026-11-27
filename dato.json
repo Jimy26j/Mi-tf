@@ -1223,6 +1223,42 @@
         "drm_license_uri": "5k3plTa2rCEgHbwuovXNaQywPTzgR7SFohPptorUClk/jKn5K5T71eREUmldwq8g0XgD8l0GY1vux2wTvrKp9KJNxM1saBq6jdhPS8l0BpsmVdGY7712gXaePencpJm61sf2kzt2XLW4YOt8dD4y3XgXgZmuBO6Feq3UNbWJ27Y="
       },
       {
+        "name": "TIG SPORTS mp py",
+        "url": "6Ji4+Hl9nxB8r3v96JTTENDj9eGbldWNRJ+OJerlce2X0twOXiSM7ELJW/DuwjroInzjwvPWkrLXTrvaEeL4bwVR/zJQiPTryfg1+xuGtdgyfLMGTlXRmJt5ha/am7Z4",
+        "type": "CLEARKEY",
+        "icono": "https://app.femon.net/streamvault/panel-banners/img/6aac8c7eac8564.07546335.png",
+        "drm_license_uri": "+pbG4BnXYeUPKF/ypQ73GWq1tKS7Degxtu2g23Hh5jxXFcI+2oxuZHptH2OmFiNfA+JdYZ3OdSEffMQvF3VvmAWR022sJtP0Sef9SVouaC6VfInTYEQ0atw8Qdbe3jJiWvbuBLrv3cw1ou/F7DNSVA==",
+        "headers": {
+          "Origin": "0jBiMWIgKi5dX93cmmHQxuGTPWoqDGkZdOlUzUdbQY8=",
+          "Referer": "0jBiMWIgKi5dX93cmmHQxu9cOQNqT8hi9sKld9jZ2xI=",
+          "User-Agent": "DWH2FHwBHn18qe4LzjVOzLxQ8skt4192tgRJAt6/EiTPowL9JVuRA1iw6OZXYRb6Gn7bR5vqbEOLbtv5/kFEDZoe3MZnY+hKP9kBATpwc0LBVDXX6CXvGXSDjoCi6YDcAKjz2Jyt7kVe2uJi7Nu5Aw=="
+        }
+      },
+      {
+        "name": "TIG SPORTS RM",
+        "url": "UIUxPftSZqxBPbf+dKCqkISVH1Hh/6Op8FHqL1F+QwzQHNf0MLv4b6pzNPZaMftp4K7lcfRPglJBXlNJB82jj4qs6sOnTTET5JkCYjQaK7whS3c+bSHzcddcdbVAWR7T2KEqp/zO84ePljPC+XCdo8g2li0e0YisMly9VCh/QXH8isz3ToFsmd+xFuHDWGNv",
+        "icono": "https://i.postimg.cc/VsBhdSTj/unnamed-1.png",
+        "type": "HLS"
+      },
+      {
+        "name": "TIG SPORTS M",
+        "url": "Hn/nIUf4UxHj+VX4HAs5I2ddkXRDRxG9kGVXwEPRqIuQabGV7EPNTIEHFEtdGZEUY59nVA2jS9jQHZ6Rfo8nLw==",
+        "icono": "https://i.postimg.cc/VsBhdSTj/unnamed-1.png",
+        "type": "HLS"
+      },
+      {
+        "name": "TIG SPORTS HL",
+        "url": "LCi3xF5Z7MkI0xJkNeIwppzaJolBI+AHyMzeRq5fNCX4+zImKlPB1xJg5/JVnyzjQPTxFfLMky1XZWeRf4HKVQ==",
+        "icono": "https://i.postimg.cc/VsBhdSTj/unnamed-1.png",
+        "type": "HLS"
+      },
+      {
+        "name": "TIG SPORTS W",
+        "url": "SCGTe3wUnFpTU4dY/NmUXlgBq7kY59r7JCetMZzMC36i79QB/m+vIVdW60O/OGYB",
+        "icono": "https://i.postimg.cc/VsBhdSTj/unnamed-1.png",
+        "type": "WEBVIEW"
+      },
+      {
         "name": "LANCE 2",
         "url": "LF+XZvF1z3P8JjpdMRedgr+W/yioLZaWzC3I1A165+lsgObtLlML6raQi7/pEvuItUHGko0+nkdmSlAoqIv8TQ==",
         "type": "HLS",
